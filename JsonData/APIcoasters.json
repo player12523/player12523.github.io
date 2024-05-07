@@ -1,0 +1,37 @@
+[
+  {
+    "CoasterName": "Falcor",
+    "CoasterPic": "assets/falcor.jpg",
+    "CoasterType": "Child",
+    "CoasterDisc": "ride through the air in our elephant cars",
+    "CoasterRequirment": "40cm"
+  },
+  {
+    "CoasterName": "Jem",
+    "CoasterPic": "assets/jem.jpg",
+    "CoasterType": "Adult",
+    "CoasterDisc": "Go through our gemstone mine and hope to make it out alive",
+    "CoasterRequirment": "100cm"
+  },
+  {
+    "CoasterName": "skelter",
+    "CoasterPic": "assets/skelter.jpg",
+    "CoasterType": "Adult",
+    "CoasterDisc": "intense ride where your bones will feel it",
+    "CoasterRequirment": "120cm"
+  },
+  {
+    "CoasterName": "Blossom Pass",
+    "CoasterPic": "assets/Blossom.jpg",
+    "CoasterType": "garden",
+    "CoasterDisc": "a gerden filled with blossum trees",
+    "CoasterRequirment": "Not Applicable"
+  },
+  {
+    "CoasterName": "Moonlight walk",
+    "CoasterPic": "assets/moonlight.jpg",
+    "CoasterType": "garden",
+    "CoasterDisc": "A garden best viewed in moonlight",
+    "CoasterRequirment": "Not Applicable"
+  }
+]
