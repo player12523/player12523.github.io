@@ -29,7 +29,7 @@
   },
   {
     "CoasterName": "Moonlight walk",
-    "CoasterPic": "assets/moonlight.jpg",
+    "CoasterPic": "https://player12523.github.io/JsonData/images/moonlight.jpg",
     "CoasterType": "garden",
     "CoasterDisc": "A garden best viewed in moonlight",
     "CoasterRequirment": "Not Applicable"
